@@ -1,0 +1,1 @@
+# aj-hyprland-dotfiles-minimal
